@@ -1,5 +1,8 @@
 # Claude code接入Deepseek
 
+![feishu\_CLI\.png](Images/Images_attachments_cc/image.png)
+
+
 > Claude code使用CC Swith工具选择不同的大模型：Opus/Deepseek/Kimi
 > 
 > 
